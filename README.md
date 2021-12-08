@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tommy Dunbar(@TheRealRyukiro)
 - 👀 I’m interested in furthering my knowledge of programming and implementing that into automated tasks & tools for effeciency
-- 🌱 I’m currently learning Python on a more deep level. I also have experience with: HTML, CSS, C#, Java, Powershell
+- 🌱 I’m currently learning Python on a more deep level. I also have experience with: HTML, CSS, Javascript, C#, Java, Powershell
 - 📫 How to reach me www.linkedin.com/in/tom-dunbar-9b8434148
 
 
